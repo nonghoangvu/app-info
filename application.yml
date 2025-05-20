@@ -3,7 +3,6 @@ spring:
     url: jdbc:postgresql://localhost:5432/postgres?currentSchema=public
     username: postgres
     password: password
-
 author:
   name: Nong Hoang Vu
   age: 20
